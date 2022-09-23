@@ -1,0 +1,15 @@
+C:\Users\jonathan.costa\CursodeC#\bin\Debug\net6.0\CursodeC#.exe
+C:\Users\jonathan.costa\CursodeC#\bin\Debug\net6.0\CursodeC#.deps.json
+C:\Users\jonathan.costa\CursodeC#\bin\Debug\net6.0\CursodeC#.runtimeconfig.json
+C:\Users\jonathan.costa\CursodeC#\bin\Debug\net6.0\CursodeC#.dll
+C:\Users\jonathan.costa\CursodeC#\bin\Debug\net6.0\CursodeC#.pdb
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.csproj.AssemblyReference.cache
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.AssemblyInfoInputs.cache
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.AssemblyInfo.cs
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.dll
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\refint\CursodeC#.dll
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.pdb
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\CursodeC#.genruntimeconfig.cache
+C:\Users\jonathan.costa\CursodeC#\obj\Debug\net6.0\ref\CursodeC#.dll
